@@ -1,4 +1,7 @@
 # dotfiles
+Neofetch bash output; Ubuntu 20.04 LTS on Windows 10
+
+![neofetch bash output; Ubuntu 20.04 LTS on Windows 10](./images/neofetch.png)
 ## Installation
 Install Git using APT package manager, which is a prerequisite for the following steps
 ```
