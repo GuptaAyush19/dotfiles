@@ -122,3 +122,4 @@ parse_git_branch() {
 }
 
 export PS1="\[\e[01;32m\]\u@\h \[\e[34m\]\w \[\e[91m\]\$(parse_git_branch)\[\e[00m\]$ "
+alias vim="vim -S ~/.vimrc"
